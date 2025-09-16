@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marc
 
-MSc in computer Science & Executive MBA | Freelance Data Engineer & Data Architect | Financial Sector Specialist
+MSc in computer Science & Executive MBA | Freelance CDO, Data Architect &  Data Engineer | Financial Sector Specialist
 
 I help organizations **design, build, and manage modern data platforms** — with a strong focus on **data governance, architecture, and management**.  
 With 15 years of experience mainly in the **financial sector**, I bridge the gap between **business strategy** and **technical execution** to turn raw data into actionable insights.
