@@ -3,7 +3,7 @@
 **Executive MBA | Freelance Data Engineer & Data Architect | Financial Sector Specialist**
 
 I help organizations **design, build, and manage modern data platforms** — with a strong focus on **data governance, architecture, and management**.  
-With [X years] of experience in the **financial sector**, I bridge the gap between **business strategy** and **technical execution** to turn raw data into actionable insights.
+With [15 years] of experience mainly in the **financial sector**, I bridge the gap between **business strategy** and **technical execution** to turn raw data into actionable insights.
 
 ---
 
@@ -12,8 +12,7 @@ With [X years] of experience in the **financial sector**, I bridge the gap betwe
 - 🏗️ **Design Modern Data Architectures** – scalable, secure, and cost-efficient  
 - 🔄 **Build Reliable Data Pipelines** – batch & streaming with Airflow, dbt, Spark  
 - 📊 **Implement Data Governance Frameworks** – data quality, lineage, compliance  
-- ☁️ **Cloud Migrations & Optimization** – AWS / GCP / Azure  
-- 🎓 **Coach Teams** on data engineering best practices  
+- 🎓 **Coach & Teams management** on data engineering  
 
 ---
 
