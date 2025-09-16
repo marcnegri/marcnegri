@@ -25,7 +25,7 @@ With 15 years of experience mainly in the **financial sector**, I bridge the gap
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Talend](https://img.shields.io/badge/talend-brightgreen)
+![Talend](https://img.shields.io/badge/Talend-brightgreen?logo=talend)
 
 ---
 
