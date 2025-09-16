@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**marcnegri/marcnegri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Executive MBA | Freelance Data Engineer & Data Architect | Financial Sector Specialist**
 
-Here are some ideas to get you started:
+I help organizations **design, build, and manage modern data platforms** — with a strong focus on **data governance, architecture, and management**.  
+With [X years] of experience in the **financial sector**, I bridge the gap between **business strategy** and **technical execution** to turn raw data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 What I Do
+
+- 🏗️ **Design Modern Data Architectures** – scalable, secure, and cost-efficient  
+- 🔄 **Build Reliable Data Pipelines** – batch & streaming with Airflow, dbt, Spark  
+- 📊 **Implement Data Governance Frameworks** – data quality, lineage, compliance  
+- ☁️ **Cloud Migrations & Optimization** – AWS / GCP / Azure  
+- 🎓 **Coach Teams** on data engineering best practices  
+
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🚀 Modern Data Pipeline](#) | End-to-end ETL/ELT pipeline with Airflow & dbt | Airflow, dbt, Snowflake |
+| [📊 Data Quality Framework](#) | Automated data validation using Great Expectations | Python, GE, CI/CD |
+| [📈 Financial Dashboard Demo](#) | Real-time dashboard built on a cloud data warehouse | Streamlit, SQL, BigQuery |
+
+*(Replace `#` with actual links to your repos)*
+
+---
+
+## 📈 Why Work With Me
+
+✅ **Business-first mindset** – Executive MBA trained, I align data solutions with business strategy  
+✅ **Proven financial sector experience** – familiar with compliance (BCBS239, GDPR, etc.)  
+✅ **Clear communicator** – translating complex data problems into actionable plans  
+✅ **Freelance-ready** – quick ramp-up, flexible, and delivery-focused  
+
+---
+
+## 🤝 Let’s Work Together
+
+I’m available for **freelance missions** and consulting engagements.  
+If you need help **designing, building, or improving your data platform**, get in touch:
+
+📧 **[Your Email]**  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+🌍 [Your Website / Portfolio Page](#)
+
+---
+⭐️ **Check out my repositories below to see examples of my work!**
