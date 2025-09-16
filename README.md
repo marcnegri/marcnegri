@@ -3,7 +3,7 @@
 **Executive MBA | Freelance Data Engineer & Data Architect | Financial Sector Specialist**
 
 I help organizations **design, build, and manage modern data platforms** — with a strong focus on **data governance, architecture, and management**.  
-With [15 years] of experience mainly in the **financial sector**, I bridge the gap between **business strategy** and **technical execution** to turn raw data into actionable insights.
+With 15 years of experience mainly in the **financial sector**, I bridge the gap between **business strategy** and **technical execution** to turn raw data into actionable insights.
 
 ---
 
@@ -20,16 +20,11 @@ With [15 years] of experience mainly in the **financial sector**, I bridge the g
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 
 ---
 
