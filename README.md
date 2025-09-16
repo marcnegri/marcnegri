@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Marc
 
 **Executive MBA | Freelance Data Engineer & Data Architect | Financial Sector Specialist**
 
