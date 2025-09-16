@@ -35,7 +35,7 @@ With 15 years of experience mainly in the **financial sector**, I bridge the gap
 | [🚀 Modern Data Pipeline](#) | End-to-end ETL/ELT pipeline with Airflow & dbt | Airflow, dbt, Snowflake |
 | [📊 Data Quality Framework](#) | Automated data validation using Great Expectations | Python, GE, CI/CD |
 | [📈 Financial Dashboard Demo](#) | Real-time dashboard built on a cloud data warehouse | Streamlit, SQL, BigQuery |
-| [📈 Real estate estimation Application](app.immonary.com) | Real-estate engine valuation based on French mutations | Python, dbt,  fastapi|
+| [📈 Real estate estimation Application](https://app.immonary.com) | Real-estate engine valuation based on French mutations | Python, dbt,  fastapi|
 
 
 ---
@@ -54,9 +54,8 @@ With 15 years of experience mainly in the **financial sector**, I bridge the gap
 I’m available for **freelance missions** and consulting engagements.  
 If you need help **designing, building, or improving your data platform**, get in touch:
 
-📧 **[Your Email]**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-🌍 [Your Website / Portfolio Page](#)
+📧 **marcnegri@protonmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/marc-negri/)  
 
 ---
 ⭐️ **Check out my repositories below to see examples of my work!**
