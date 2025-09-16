@@ -33,7 +33,7 @@ With 15 years of experience mainly in the **financial sector**, I bridge the gap
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [📈 Real estate portfolios and valuation Application](https://app.immonary.com) | Real-estate engine valuation based on French mutations | Python, dbt,  fastapi|
+| [📈 Real estate portfolios and valuation Application](https://app.immonary.com) | Real-estate engine valuation based on French mutations | Python, dbt,  fastapi, duckDB|
 
 
 ---
