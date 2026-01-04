@@ -34,7 +34,7 @@ With 15 years of experience mainly in the **financial sector**, I bridge the gap
 | Project | Description | Tech |
 |--------|-------------|------|
 | [📈 Real estate portfolios and valuation Application](https://app.immonary.com) | Real-estate engine valuation based on French mutations | Python, dbt,  fastapi, duckDB|
-| [🤖 Data Doctor - AI - My AI Data expert assistant | My linkedIn scribe, who's able to speak about data | Python, Pinecone, Hugging faces model (llama)|
+| [🤖 Data Doctor - AI - My AI Data expert assistant] | My linkedIn scribe, who's able to speak about data | Python, Pinecone, Hugging faces model (llama)|
 
 
 ---
