@@ -42,8 +42,8 @@ With 15 years of experience mainly in the **financial sector**, I bridge the gap
 ## 📈 Why Work With Me
 
 ✅ **Business-first mindset** – Executive MBA trained, I align data solutions with business strategy  
-✅ **Proven financial sector experience** – familiar with compliance (FINMA-BAFIN-SEC, GDPR, etc.), regulation and demanding environments  
-✅ **Clear communicator** – translating complex data problems into actionable plans  
+✅ **Proven financial sector experience** – familiar with compliance (FINMA-BAFIN-SEC, GDPR, etc.), regulations and demanding environments  
+✅ **Clear communicator** – translating complex data problems into actionable plans (french and english fluent)
 ✅ **Freelance-ready** – quick ramp-up, flexible, and delivery-focused  
 
 ---
