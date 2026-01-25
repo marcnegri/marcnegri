@@ -35,7 +35,7 @@ With 15 years of experience mainly in the **financial sector**, I bridge the gap
 |--------|-------------|------|
 | [📈 Real estate portfolios and valuation Application](https://app.immonary.com) | Real-estate engine valuation based on French mutations | Python, dbt,  fastapi, duckDB|
 | 🤖 Data Doctor - AI - My AI Data expert assistant | My linkedIn scribe, who's able to speak about data | Python, Pinecone, Hugging faces model (llama)|
-| 🍔 PasMalBigMac - CRM | Need a CRM for the price of coffee cup ? (not at Starbuck, cheaper) | Vue.js, python, fastapi |
+| 🍔 BigMac - CRM | Need a CRM for the price of a coffee cup ? (not at Starbucks, cheaper) | Vue.js, python, fastapi |
 
 
 ---
